@@ -133,6 +133,3 @@ Edit the `config.json` file:
 > You are solely responsible for complying with **Discord’s Terms of Service** and all applicable laws.
 
 ```
-
-Let me know if you'd like a dark-themed badge version or a stylized ASCII banner added at the end!
-```
