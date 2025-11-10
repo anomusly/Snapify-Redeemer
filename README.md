@@ -44,5 +44,5 @@ Thank you for your generosity! ❤️
 Want a personalized tool?
 DM me on Discord with your idea and budget!
 
-🛍️ Store: [https://anomus.mysellauth.com/](https://anomus.mysellauth.com/)
+🛍️ Store: [https://axilon.mysellauth.com/](https://axilon.mysellauth.com/)
 
