@@ -46,3 +46,8 @@ DM me on Discord with your idea and budget!
 
 🛍️ Store: [https://axilon.mysellauth.com/](https://axilon.mysellauth.com/)
 
+
+## 🎓 Educational Purpose
+
+This tool is designed **strictly for educational use**, helping developers
+
