@@ -33,7 +33,7 @@ Thank you for your generosity! ❤️
 
 ---
 
-## 📬 Contact the Creator
+## 📬 Contact the Creator:
 
 📩 **DM me on Discord:** `anomus.ly`
 
