@@ -1,4 +1,4 @@
-# ⚡ SNAPIFY-REDEEMER v1 [NEW](https://axilon.mysellauth.com/)
+# ⚡ SNAPIFY-REDEEMER v1 (unmaintained) [NEW](https://axilon.mysellauth.com/)
 
 ## 🚀 Setup
 
