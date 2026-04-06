@@ -44,7 +44,7 @@ Thank you for your generosity! ❤️
 Want a personalized tool?
 DM me on Discord with your idea and budget!
 
-🛍️ Store: [https://shop.axilon.app](https://shop.axilon.app
+🛍️ Store: [https://shop.axilon.app](https://shop.axilon.app)
 
 
 ## 🎓 Educational Purpose
