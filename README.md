@@ -1,4 +1,4 @@
-# ⚡ SNAPIFY-REDEEMER v1 (unmaintained) [NEW](https://axilon.mysellauth.com/)
+# ⚡ SNAPIFY-REDEEMER v1 (unmaintained) [NEW](https://shop.axilon.app)
 
 ## 🚀 Setup
 
@@ -44,7 +44,7 @@ Thank you for your generosity! ❤️
 Want a personalized tool?
 DM me on Discord with your idea and budget!
 
-🛍️ Store: [https://axilon.mysellauth.com/](https://axilon.mysellauth.com/)
+🛍️ Store: [https://shop.axilon.app](https://shop.axilon.app
 
 
 ## 🎓 Educational Purpose
