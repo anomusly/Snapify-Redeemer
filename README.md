@@ -19,8 +19,6 @@
    python main.py
    ```
 
----
-
 ## 💰 Support This Project
 
 Love this tool? Your support helps with further updates and development!
