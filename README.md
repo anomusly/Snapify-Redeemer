@@ -1,4 +1,4 @@
-# ⚡ SNAPIFY-REDEEMER v1 (unmaintained) [NEW](https://shop.axilon.app)
+# ⚡ SNAPIFY-REDEEMER v1 (unmaintained) [NEW](https://shop.axilon.app).
 
 ## 🚀 Setup
 
